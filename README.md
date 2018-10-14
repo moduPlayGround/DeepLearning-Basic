@@ -2,7 +2,7 @@
 ## 모두를 위한 딥러닝 기초 코스 입니다.
 - [참고자료 및 동영상](https://hunkim.github.io/ml/)
 
-## 스터디 멤버
+## 1기 스터디 멤버
 - 조교: 강다인 연구원
 - [학부연구생 신청자](https://docs.google.com/spreadsheets/d/1PwGjwTOcZkTTrvff58V2Sk4sCbV8e97QNrG7hBGdPys/edit?usp=sharing)
 
