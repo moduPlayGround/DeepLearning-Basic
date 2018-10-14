@@ -3,6 +3,7 @@
 - [참고자료 및 동영상](https://hunkim.github.io/ml/)
 
 ## 스터디 멤버
+- 조교: 강다인 
 - [학부연구생 신청자](https://docs.google.com/spreadsheets/d/1PwGjwTOcZkTTrvff58V2Sk4sCbV8e97QNrG7hBGdPys/edit?usp=sharing)
 
 ## 스터디 일정
