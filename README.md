@@ -2,6 +2,10 @@
 ## 모두를 위한 딥러닝 기초 코스 입니다.
 - [참고자료 및 동영상](https://hunkim.github.io/ml/)
 - cs231n 코스 & project
+- PR12 논문 스터디
+- Naver Engeering 논문 스터디
+- 분야 선정 후 딥러닝 기본 코스로 고고
+    - CV, NLP, Robotics(Autonomous Vehicle포함)
 
 ## 1기 스터디 멤버
 - 조교: 강다인 연구원
