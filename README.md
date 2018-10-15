@@ -4,7 +4,8 @@
 
 ## 1기 스터디 멤버
 - 조교: 강다인 연구원
-- [학부연구생 신청자](https://docs.google.com/spreadsheets/d/1PwGjwTOcZkTTrvff58V2Sk4sCbV8e97QNrG7hBGdPys/edit?usp=sharing)
+- [1학년] 권석준 / 이정민 / 안형조
+- [2학년] 조원 / 김남훈 / 김해린 / 한대찬
 
 ## 스터디 일정
 - 예상 일정: 첫모임 - 11월 첫 주
