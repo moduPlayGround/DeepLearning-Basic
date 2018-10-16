@@ -2,7 +2,7 @@
 ## 모두를 위한 딥러닝 기초 코스 입니다.
 - [참고자료 및 동영상](https://hunkim.github.io/ml/)
 - cs231n 코스 & project
-- AI 트랜드 익히기
+- [AI 트랜드 익히기](https://github.com/moduPlayGound/SejongAI)
 - 딥러닝 중급 코스로 고고
 
 ## 1기 스터디 멤버
