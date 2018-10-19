@@ -18,3 +18,6 @@
 ## 스터디 일정
 - 예상 일정: 첫모임 - 11월 첫 주
 
+## 공지 사항
+- 멤버 여러분은 자기 소개 부탁드립니다. 
+- https://github.com/moduPlayGround/DeepLearning-Basic/issues/4
