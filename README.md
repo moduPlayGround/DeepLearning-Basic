@@ -1,4 +1,10 @@
 
+
+## 공지 사항
+- 멤버 여러분은 자기 소개 부탁드립니다. 
+- https://github.com/moduPlayGround/DeepLearning-Basic/issues/4
+
+
 ## 모두를 위한 딥러닝 기초 코스 입니다.
 - [개론] [2018 인공지능 및 기계학습 개론 I](https://www.edwith.org/machinelearning1_17)
 - [개론] [2018 인공지능 및 기계학습 개론 II](https://www.edwith.org/machinelearning2__17)
@@ -17,7 +23,3 @@
 
 ## 스터디 일정
 - 예상 일정: 첫모임 - 11월 첫 주
-
-## 공지 사항
-- 멤버 여러분은 자기 소개 부탁드립니다. 
-- https://github.com/moduPlayGround/DeepLearning-Basic/issues/4
