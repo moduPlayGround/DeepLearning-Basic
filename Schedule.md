@@ -1,38 +1,38 @@
 
-(1주차) 11월 12일 / 11월 15일 까지
+## (1주차) 11월 12일 / 11월 15일 까지
 
 섹션 0. 오리엔테이션
-수업 소개와 개요	[비디오][슬라이드]
+수업 소개와 개요	[비디오](https://www.youtube.com/watch?v=BS6O0zOGX4E)[슬라이드](https://hunkim.github.io/ml/lec0.pdf)
 00:10:00
 
 섹션 1. 머신러닝의 개념과 용어
-기본적인 Machine Learnnig 의 용어와 개념 설명	미리보기	
+기본적인 Machine Learnnig 의 용어와 개념 설명	[비디오](https://www.youtube.com/watch?v=qPMeuL2LIqY)[슬라이드](https://hunkim.github.io/ml/lec1.pdf)
 00:12:00
-TensorFlow의 설치및 기본적인 operations (new)		
+TensorFlow의 설치및 기본적인 operations [비디오](https://youtu.be/-57Ne86Ia8w) [슬라이드](https://docs.google.com/presentation/d/137IlT2N3AYcclqxNuc8j9RDrIeHiYkSZ5JPg_vg9Jqk/edit#slide=id.g1d115b0ec5_0_215)		
 00:17:00
 
 섹션 2. Linear Regression 의 개념
-Linear Regression의 Hypothesis 와 cost		
+Linear Regression의 Hypothesis 와 cost [비디오](https://www.youtube.com/watch?v=Hax03rCn3UI)[슬라이드](https://hunkim.github.io/ml/lec2.pdf)
 00:13:00
-Tensorflow로 간단한 linear regression을 구현 (new)		
+Tensorflow로 간단한 linear regression을 구현 [비디오](https://youtu.be/mQGwjrStQgg)[슬라이드](https://docs.google.com/presentation/d/12raZrY3d244q6jGuC7EykeSPzjP1-FqofMiNlx5Q52o)
 00:15:00
 
-섹션 3. Linear Regression cost 함수 최소화
-Linear Regression의 cost 최소화 알고리즘의 원리		
+섹션 3. Linear Regression cost 함수 최소화 
+Linear Regression의 cost 최소화 알고리즘의 원리	[비디오](https://www.youtube.com/watch?v=TxIVr-nk1so)[슬라이드](https://hunkim.github.io/ml/lec3.pdf)
 00:16:00
-Linear Regression 의 cost 최소화의 TensorFlow 구현(new)		
+Linear Regression 의 cost 최소화의 TensorFlow 구현 [비디오](https://youtu.be/Y0EF9VqRuEA)[슬라이드](https://docs.google.com/presentation/d/1Az_ulisKyBH7hVNrQmN_3HyrX1sAxUMqXQvvtaRGYl4)
 00:15:00
 
 섹션 4. 여러개의 입력(feature)의 Linear Regression
-multi-variable linear regression (new)		
+multi-variable linear regression [비디오](https://youtu.be/kPxpJY6fRkY)[슬라이드](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/)		
 00:17:00
-lab 04-1: multi-variable linear regression을 TensorFlow에서 구현하기	미리보기	
+lab 04-1: multi-variable linear regression을 TensorFlow에서 구현하기	[비디오](https://youtu.be/fZUV3xjoZSM)[슬라이드](https://docs.google.com/presentation/d/1WF5yphSXyzYLG8wmVvOpRmgAlw4vewbK51ZwLAOFZXk)
 00:08:00
-lab 04-2: TensorFlow로 파일에서 데이타 읽어오기 (new)		
+lab 04-2: TensorFlow로 파일에서 데이타 읽어오기 [비디오](https://youtu.be/o2q4QNnoShY)
 00:06:00
 
-=========================
-(2주차) 11월 19일 / 11월 22일 까지
+
+## (2주차) 11월 19일 / 11월 22일 까지
 
 섹션 5. Logistic (Regression) Classification
 Logistic Classification의 가설 함수 정의		
@@ -65,8 +65,7 @@ lab 07-2: Meet MNIST Dataset (new)
 00:13:00
 
 
-=========================
-(3주차) 11월 26일 / 11월 29일 
+## (3주차) 11월 26일 / 11월 29일 
 
 섹션 8. 딥러닝의 기본 개념과, 문제, 그리고 해결
 딥러닝의 기본 개념: 시작과 XOR 문제		
@@ -100,9 +99,8 @@ Dropout 과 앙상블
 Lab 10: 딥러닝으로 MNIST 98%이상 해보기(new)		
 00:14:00
 
-=========================
 
-(4주차) 12월 3일 / 12월 6일 
+## (4주차) 12월 3일 / 12월 6일 
 
 섹션 11. Convolutional Neural Networks
 ConvNet의 Conv 레이어 만들기	미리보기	
@@ -119,9 +117,8 @@ ConvNet의 활용 예	미리보기
 00:10:00
 
 
-=========================
 
-(5주차) 12월 24일 / 12월 27일까지
+## (5주차) 12월 24일 / 12월 27일까지
 
 섹션 12. Recurrent Neural Network
 NN의 꽃 RNN 이야기	미리보기	
@@ -139,8 +136,7 @@ Lab12-5: Dynamic RNN (new)
 Lab12-6: RNN with Time Series Data (new)		
 00:10:00
 
-(부록) 5주차에 
-
+## (부록) 5주차에 
 
 섹션 13. Deep Deep Network AWS 에서 GPU와 돌려보기 (powered bt AWS)
 powered by AWS		
