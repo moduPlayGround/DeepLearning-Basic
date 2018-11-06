@@ -1,5 +1,5 @@
 
-## (1주차) 11월 12일 / 11월 15일 까지
+## (1주차) A반: 11월 12일 / B반: 11월 15일
 
 - 섹션 0. 오리엔테이션
     - 수업 소개와 개요	[비디오](https://www.youtube.com/watch?v=BS6O0zOGX4E)/[슬라이드](https://hunkim.github.io/ml/lec0.pdf) [00:10:00]
@@ -22,37 +22,26 @@
     - lab 04-2: TensorFlow로 파일에서 데이타 읽어오기 [비디오](https://youtu.be/o2q4QNnoShY) [00:06:00]
 
 
-## (2주차) 11월 19일 / 11월 22일 까지
+## (2주차) A반: 11월 19일 / B반: 11월 22일
 
-섹션 5. Logistic (Regression) Classification
-Logistic Classification의 가설 함수 정의		
-00:15:00
-Logistic Regression의 cost 함수 설명		
-00:14:00
-TensorFlow로 Logistic Classification의 구현하기(new)		
-00:15:00
+- 섹션 5. Logistic (Regression) Classification 
+    - Logistic Classification의 가설 함수 정의	[비디오]/[슬라이드]	[00:15:00]
+    - Logistic Regression의 cost 함수 설명 [비디오]/[슬라이드]		[00:14:00]
+    - TensorFlow로 Logistic Classification의 구현하기 [비디오]/[슬라이드]		[00:15:00]
 
 
-섹션 6. Softmax Regression (Multinomial Logistic Regression)
-Multinomial 개념 소개		
-00:10:00
-Cost 함수 소개		
-00:15:00
-lab 06-1: TensorFlow로 Softmax Classification의 구현하기 (new)		
-00:12:00
-lab 06-2: TensorFlow로 Fancy Softmax Classification의 구현하기 (new)		
-00:16:00
+- 섹션 6. Softmax Regression (Multinomial Logistic Regression)
+    - Multinomial 개념 소개	[비디오]/[슬라이드] [00:10:00]
+    - Cost 함수 소개	[비디오]/[슬라이드] [00:15:00]
+    - lab 06-1: TensorFlow로 Softmax Classification의 구현하기 [비디오]/[슬라이드]	[00:12:00]
+    - lab 06-2: TensorFlow로 Fancy Softmax Classification의 구현하기 [비디오]/[슬라이드]		[00:16:00]
 
 
-섹션 7. ML의 실용과 몇가지 팁
-학습 rate, Overfitting, 그리고 일반화 (Regularization)		
-00:14:00
-Training/Testing 데이타 셋		
-00:09:00
-lab 07-1: training/test dataset, learning rate, normalization (new)		
-00:11:00
-lab 07-2: Meet MNIST Dataset (new)		
-00:13:00
+- 섹션 7. ML의 실용과 몇가지 팁
+    - 학습 rate, Overfitting, 그리고 일반화 (Regularization)	[비디오]/[슬라이드]	[00:14:00]
+    - Training/Testing 데이타 셋		[비디오]/[슬라이드][00:09:00]
+    - lab 07-1: training/test dataset, learning rate, normalization [비디오]/[슬라이드]		[00:11:00]
+    - lab 07-2: Meet MNIST Dataset [비디오]/[슬라이드] [00:13:00]
 
 
 ## (3주차) 11월 26일 / 11월 29일 
