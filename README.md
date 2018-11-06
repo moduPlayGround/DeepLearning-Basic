@@ -4,6 +4,8 @@
 - 멤버 여러분은 아래의 issue에 자기 소개 부탁드립니다. 
 - https://github.com/moduPlayGround/DeepLearning-Basic/issues/4
 
+- 이슈의 글을 읽었으면 엄지척!, 이슈가 맘에 들거나 상대방을 칭찬하고 싶으면 하트! 를 날려주세요.
+  - 운영에 큰 힘이 됩니다. 
 
 ## 모두를 위한 딥러닝 기초 코스 계획
 - https://github.com/moduPlayGround/DeepLearning-Basic/blob/master/StudyPlan.md
