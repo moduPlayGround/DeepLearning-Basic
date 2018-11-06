@@ -2,34 +2,24 @@
 ## (1주차) 11월 12일 / 11월 15일 까지
 
 - 섹션 0. 오리엔테이션
-    - 수업 소개와 개요	[비디오](https://www.youtube.com/watch?v=BS6O0zOGX4E)/[슬라이드](https://hunkim.github.io/ml/lec0.pdf)
-00:10:00
+    - 수업 소개와 개요	[비디오](https://www.youtube.com/watch?v=BS6O0zOGX4E)/[슬라이드](https://hunkim.github.io/ml/lec0.pdf) [00:10:00]
 
 - 섹션 1. 머신러닝의 개념과 용어
-    - 기본적인 Machine Learnnig 의 용어와 개념 설명	[비디오](https://www.youtube.com/watch?v=qPMeuL2LIqY)/[슬라이드](https://hunkim.github.io/ml/lec1.pdf)
-00:12:00
-    - TensorFlow의 설치및 기본적인 operations [비디오](https://youtu.be/-57Ne86Ia8w)/[슬라이드](https://docs.google.com/presentation/d/137IlT2N3AYcclqxNuc8j9RDrIeHiYkSZ5JPg_vg9Jqk/edit#slide=id.g1d115b0ec5_0_215)		
-00:17:00
+    - 기본적인 Machine Learnnig 의 용어와 개념 설명	[비디오](https://www.youtube.com/watch?v=qPMeuL2LIqY)/[슬라이드](https://hunkim.github.io/ml/lec1.pdf) [00:12:00]
+    - TensorFlow의 설치및 기본적인 operations [비디오](https://youtu.be/-57Ne86Ia8w)/[슬라이드](https://docs.google.com/presentation/d/137IlT2N3AYcclqxNuc8j9RDrIeHiYkSZ5JPg_vg9Jqk/edit#slide=id.g1d115b0ec5_0_215) [00:17:00]
 
 - 섹션 2. Linear Regression 의 개념
-    - Linear Regression의 Hypothesis 와 cost [비디오](https://www.youtube.com/watch?v=Hax03rCn3UI)[슬라이드](https://hunkim.github.io/ml/lec2.pdf)
-00:13:00
-    - Tensorflow로 간단한 linear regression을 구현 [비디오](https://youtu.be/mQGwjrStQgg)/[슬라이드](https://docs.google.com/presentation/d/12raZrY3d244q6jGuC7EykeSPzjP1-FqofMiNlx5Q52o)
-00:15:00
+    - Linear Regression의 Hypothesis 와 cost [비디오](https://www.youtube.com/watch?v=Hax03rCn3UI)[슬라이드](https://hunkim.github.io/ml/lec2.pdf) [00:13:00]
+    - Tensorflow로 간단한 linear regression을 구현 [비디오](https://youtu.be/mQGwjrStQgg)/[슬라이드](https://docs.google.com/presentation/d/12raZrY3d244q6jGuC7EykeSPzjP1-FqofMiNlx5Q52o) [00:15:00]
 
 - 섹션 3. Linear Regression cost 함수 최소화 
-    - Linear Regression의 cost 최소화 알고리즘의 원리	[비디오](https://www.youtube.com/watch?v=TxIVr-nk1so)/[슬라이드](https://hunkim.github.io/ml/lec3.pdf)
-00:16:00
-    - Linear Regression 의 cost 최소화의 TensorFlow 구현 [비디오](https://youtu.be/Y0EF9VqRuEA)/[슬라이드](https://docs.google.com/presentation/d/1Az_ulisKyBH7hVNrQmN_3HyrX1sAxUMqXQvvtaRGYl4)
-00:15:00
+    - Linear Regression의 cost 최소화 알고리즘의 원리	[비디오](https://www.youtube.com/watch?v=TxIVr-nk1so)/[슬라이드](https://hunkim.github.io/ml/lec3.pdf) [00:16:00]
+    - Linear Regression 의 cost 최소화의 TensorFlow 구현 [비디오](https://youtu.be/Y0EF9VqRuEA)/[슬라이드](https://docs.google.com/presentation/d/1Az_ulisKyBH7hVNrQmN_3HyrX1sAxUMqXQvvtaRGYl4) [00:15:00]
 
 - 섹션 4. 여러개의 입력(feature)의 Linear Regression
-    - multi-variable linear regression [비디오](https://youtu.be/kPxpJY6fRkY)/[슬라이드](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/)		
-00:17:00
-    - lab 04-1: multi-variable linear regression을 TensorFlow에서 구현하기	[비디오](https://youtu.be/fZUV3xjoZSM)/[슬라이드](https://docs.google.com/presentation/d/1WF5yphSXyzYLG8wmVvOpRmgAlw4vewbK51ZwLAOFZXk)
-00:08:00
-    - lab 04-2: TensorFlow로 파일에서 데이타 읽어오기 [비디오](https://youtu.be/o2q4QNnoShY)
-00:06:00
+    - multi-variable linear regression [비디오](https://youtu.be/kPxpJY6fRkY)/[슬라이드](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/) [00:17:00]
+    - lab 04-1: multi-variable linear regression을 TensorFlow에서 구현하기	[비디오](https://youtu.be/fZUV3xjoZSM)/[슬라이드](https://docs.google.com/presentation/d/1WF5yphSXyzYLG8wmVvOpRmgAlw4vewbK51ZwLAOFZXk) [00:08:00]
+    - lab 04-2: TensorFlow로 파일에서 데이타 읽어오기 [비디오](https://youtu.be/o2q4QNnoShY) [00:06:00]
 
 
 ## (2주차) 11월 19일 / 11월 22일 까지
