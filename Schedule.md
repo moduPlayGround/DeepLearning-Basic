@@ -2,19 +2,19 @@
 ## (1주차) 11월 12일 / 11월 15일 까지
 
 - 섹션 0. 오리엔테이션
-    - 수업 소개와 개요	[비디오](https://www.youtube.com/watch?v=BS6O0zOGX4E)[슬라이드](https://hunkim.github.io/ml/lec0.pdf)
+    - 수업 소개와 개요	[비디오](https://www.youtube.com/watch?v=BS6O0zOGX4E)/[슬라이드](https://hunkim.github.io/ml/lec0.pdf)
 00:10:00
 
 - 섹션 1. 머신러닝의 개념과 용어
-    - 기본적인 Machine Learnnig 의 용어와 개념 설명	[비디오](https://www.youtube.com/watch?v=qPMeuL2LIqY)[슬라이드](https://hunkim.github.io/ml/lec1.pdf)
+    - 기본적인 Machine Learnnig 의 용어와 개념 설명	[비디오](https://www.youtube.com/watch?v=qPMeuL2LIqY)/[슬라이드](https://hunkim.github.io/ml/lec1.pdf)
 00:12:00
-    - TensorFlow의 설치및 기본적인 operations [비디오](https://youtu.be/-57Ne86Ia8w) [슬라이드](https://docs.google.com/presentation/d/137IlT2N3AYcclqxNuc8j9RDrIeHiYkSZ5JPg_vg9Jqk/edit#slide=id.g1d115b0ec5_0_215)		
+    - TensorFlow의 설치및 기본적인 operations [비디오](https://youtu.be/-57Ne86Ia8w)/[슬라이드](https://docs.google.com/presentation/d/137IlT2N3AYcclqxNuc8j9RDrIeHiYkSZ5JPg_vg9Jqk/edit#slide=id.g1d115b0ec5_0_215)		
 00:17:00
 
 - 섹션 2. Linear Regression 의 개념
     - Linear Regression의 Hypothesis 와 cost [비디오](https://www.youtube.com/watch?v=Hax03rCn3UI)[슬라이드](https://hunkim.github.io/ml/lec2.pdf)
 00:13:00
-    - Tensorflow로 간단한 linear regression을 구현 [비디오](https://youtu.be/mQGwjrStQgg)[슬라이드](https://docs.google.com/presentation/d/12raZrY3d244q6jGuC7EykeSPzjP1-FqofMiNlx5Q52o)
+    - Tensorflow로 간단한 linear regression을 구현 [비디오](https://youtu.be/mQGwjrStQgg)/[슬라이드](https://docs.google.com/presentation/d/12raZrY3d244q6jGuC7EykeSPzjP1-FqofMiNlx5Q52o)
 00:15:00
 
 - 섹션 3. Linear Regression cost 함수 최소화 
