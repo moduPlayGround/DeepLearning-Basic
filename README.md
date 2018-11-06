@@ -13,8 +13,7 @@
 - 박진현, 황유진, 조동현, 권석준, 최영민, 이정민, 송인재, 김민준, 정지원, 안형조, 조원, 김남훈, 김재형, 김해린, 한대찬, 박미희, 곽민재, 이영남, 변성진, 김지원 (20명)
 
 ## 스터디 일정
-- https://github.com/moduPlayGround/DeepLearning-Basic/Schedule.md
-
+- https://github.com/moduPlayGround/DeepLearning-Basic/blob/master/Schedule.md
 
 ## 1기 수료자의 의무사항
 - 졸업 이후 어떤 진로를 선택하고 싶은지 결정한다.
