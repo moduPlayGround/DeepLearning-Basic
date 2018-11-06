@@ -6,7 +6,8 @@
 
 
 ## 모두를 위한 딥러닝 기초 코스 계획
-- https://github.com/moduPlayGround/DeepLearning-Basic/blob/master/Schedule.md 
+- https://github.com/moduPlayGround/DeepLearning-Basic/blob/master/StudyPlan.md
+
 
 ## 1기 스터디 멤버
 - 조교: 강다인 연구원
