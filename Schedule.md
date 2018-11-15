@@ -40,16 +40,16 @@
 ## (2주차) A반: 11월 19일 / B반: 11월 22일
 
 - 섹션 5. Logistic (Regression) Classification 
-    - Logistic Classification의 가설 함수 정의	[비디오]/[슬라이드]	[00:15:00]
-    - Logistic Regression의 cost 함수 설명 [비디오]/[슬라이드]		[00:14:00]
-    - TensorFlow로 Logistic Classification의 구현하기 [비디오]/[슬라이드]		[00:15:00]
+    - Logistic Classification의 가설 함수 정의	[비디오](https://youtu.be/PIjno6paszY)/[슬라이드](https://hunkim.github.io/ml/lec5.pdf)	[00:15:00]
+    - Logistic Regression의 cost 함수 설명 [비디오](https://youtu.be/6vzchGYEJBc)/[슬라이드](https://hunkim.github.io/ml/lec5.pdf)		[00:14:00]
+    - TensorFlow로 Logistic Classification의 구현하기 [비디오](https://youtu.be/2FeWGgnyLSw)/[슬라이드](https://docs.google.com/presentation/d/180ZISPNRVWYKyV61xoZepZ_KVUK6mujIXuwXE0eKZuM)		[00:15:00]
 
 
 - 섹션 6. Softmax Regression (Multinomial Logistic Regression)
-    - Multinomial 개념 소개	[비디오]/[슬라이드] [00:10:00]
-    - Cost 함수 소개	[비디오]/[슬라이드] [00:15:00]
-    - lab 06-1: TensorFlow로 Softmax Classification의 구현하기 [비디오]/[슬라이드]	[00:12:00]
-    - lab 06-2: TensorFlow로 Fancy Softmax Classification의 구현하기 [비디오]/[슬라이드]		[00:16:00]
+    - Multinomial 개념 소개	[비디오](https://youtu.be/MFAnsx1y9ZI)/[슬라이드](https://hunkim.github.io/ml/lec6.pdf) [00:10:00]
+    - Cost 함수 소개	[비디오](https://youtu.be/jMU9G5WEtBc)/[슬라이드](https://hunkim.github.io/ml/lec6.pdf) [00:15:00]
+    - lab 06-1: TensorFlow로 Softmax Classification의 구현하기 [비디오](https://youtu.be/VRnubDzIy3A)/[슬라이드](https://docs.google.com/presentation/d/1FPcmOh_gmBw7uyOThFyKwdx7Ua2q8tX0kVFOSwI6kas)	[00:12:00]
+    - lab 06-2: TensorFlow로 Fancy Softmax Classification의 구현하기 [비디오](https://youtu.be/E-io76NlsqA)/[슬라이드](https://docs.google.com/presentation/d/1FPcmOh_gmBw7uyOThFyKwdx7Ua2q8tX0kVFOSwI6kas)		[00:16:00]
 
 
 - 섹션 7. ML의 실용과 몇가지 팁
