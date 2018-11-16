@@ -53,10 +53,10 @@
 
 
 - 섹션 7. ML의 실용과 몇가지 팁
-    - 학습 rate, Overfitting, 그리고 일반화 (Regularization)	[비디오]/[슬라이드]	[00:14:00] (김해린, 이영남)
-    - Training/Testing 데이타 셋		[비디오]/[슬라이드][00:09:00] (노현중, 변성진)
-    - lab 07-1: training/test dataset, learning rate, normalization [비디오]/[슬라이드]		[00:11:00] (곽민재, 김지원)
-    - lab 07-2: Meet MNIST Dataset [비디오]/[슬라이드] [00:13:00] (송인재, 박진현) 
+    - 학습 rate, Overfitting, 그리고 일반화 (Regularization)	[비디오](https://youtu.be/1jPjVoDV_uo)/[슬라이드](https://hunkim.github.io/ml/lec7.pdf)	[00:14:00] (김해린, 이영남)
+    - Training/Testing 데이타 셋		[비디오](https://youtu.be/KVv1nMSlPzY)/[슬라이드](https://hunkim.github.io/ml/lec7.pdf)[00:09:00] (노현중, 변성진)
+    - lab 07-1: training/test dataset, learning rate, normalization [비디오](https://youtu.be/oSJfejG2C3w)/[슬라이드](https://docs.google.com/presentation/d/1cVwqMpERToATs1JGYps0F3MLARP8OAlw6ZIe-lpPHYs)		[00:11:00] (곽민재, 김지원)
+    - lab 07-2: Meet MNIST Dataset [비디오](https://youtu.be/ktd5yrki_KA)/[슬라이드](https://docs.google.com/presentation/d/1cVwqMpERToATs1JGYps0F3MLARP8OAlw6ZIe-lpPHYs) [00:13:00] (송인재, 박진현) 
 
 
 ## (3주차) A반: 11월 26일 / B반: 11월 29일
