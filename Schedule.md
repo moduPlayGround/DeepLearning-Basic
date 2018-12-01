@@ -63,17 +63,17 @@
 
 
 - 섹션 8. 딥러닝의 기본 개념과, 문제, 그리고 해결 
-    - 딥러닝의 기본 개념: 시작과 XOR 문제 [비디오]()/[슬라이드]() [00:17:00] (안형조, 이영남)
-    - 딥러닝의 기본 개념2: Back-propagation 과 2006/2007 ‘딥’의 출현 [비디오]()/[슬라이드]() [00:12:00] (조원, 김남훈)
-    - Lab : Tensor Manipulation [비디오]()/[슬라이드]() [00:26:00] (한대찬, 최영민)
+    - 딥러닝의 기본 개념: 시작과 XOR 문제 [비디오](https://youtu.be/n7DNueHGkqE)/[슬라이드](https://hunkim.github.io/ml/lec8.pdf) [00:17:00] (안형조, 이영남)
+    - 딥러닝의 기본 개념2: Back-propagation 과 2006/2007 ‘딥’의 출현 [비디오](https://youtu.be/AByVbUX1PUI)/[슬라이드](https://hunkim.github.io/ml/lec8.pdf) [00:12:00] (조원, 김남훈)
+    - Lab : Tensor Manipulation [비디오](https://youtu.be/ZYX0FaqUeN4)/[슬라이드](https://docs.google.com/presentation/d/1gQ7Xxrhylkr5Kk5pG15yvX3yOln_hk2-H6jrQeXqKmU) [00:26:00] (한대찬, 최영민)
 
 
 - 섹션 9. Neural Network 1: XOR 문제와 학습방법, Backpropagation
-    - XOR 문제 딥러닝으로 풀기 [비디오]()/[슬라이드]()[00:15:00] (박미희, 김지원)
-    - 특별편: 10분안에 미분 정리하기 [비디오]()/[슬라이드]()[00:09:00] (권석준, 이정민)
-    - 딥넷트웍 학습 시키기 (backpropagation)	[비디오]()/[슬라이드]()[00:18:00] (김해린, 김민준)
-    - Lab 9-1: XOR을 위한 텐스플로우 딥넷트웍 [비디오]()/[슬라이드]()	[00:12:00] (노현중, 조동현)
-    - Lab 9-2: Tensor Board로 딥네트웍 들여다보기 [비디오]()/[슬라이드]()		[00:12:00] (곽민재, 변성진)
+    - XOR 문제 딥러닝으로 풀기 [비디오](https://youtu.be/GYecDQQwTdI)/[슬라이드](https://hunkim.github.io/ml/lec9.pdf)[00:15:00] (박미희, 김지원)
+    - 특별편: 10분안에 미분 정리하기 [비디오](https://youtu.be/oZyvmtqLmLo)/[슬라이드](https://hunkim.github.io/ml/lec9.pdf)[00:09:00] (권석준, 이정민)
+    - 딥넷트웍 학습 시키기 (backpropagation)	[비디오](https://youtu.be/573EZkzfnZ0)/[슬라이드](https://hunkim.github.io/ml/lec9.pdf)[00:18:00] (김해린, 김민준)
+    - Lab 9-1: XOR을 위한 텐스플로우 딥넷트웍 [비디오](https://youtu.be/oFGHOsAYiz0)/[슬라이드](https://docs.google.com/presentation/d/1KHpjyziDm0Wle-OI-6TZhWM2Oj7YiypXuZOZ1SJW8ds/edit?usp=drive_web)	[00:12:00] (노현중, 조동현)
+    - Lab 9-2: Tensor Board로 딥네트웍 들여다보기 [비디오](https://youtu.be/lmrWZPFYjHM)/[슬라이드](https://docs.google.com/presentation/d/1KHpjyziDm0Wle-OI-6TZhWM2Oj7YiypXuZOZ1SJW8ds/edit?usp=drive_web)		[00:12:00] (곽민재, 변성진)
 
 
 ## 기말고사 기간 (2주간 휴강) 
