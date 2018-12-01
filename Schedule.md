@@ -37,7 +37,7 @@
 - 1주차 Summary
     - (김재형, 박진현)
 
-## (2주차) A반: 11월 19일 / B반: 11월 22일
+## (2주차) A반: 11월 26일 / B반: 11월 29일
 
 - 섹션 5. Logistic (Regression) Classification 
     - Logistic Classification의 가설 함수 정의	[비디오](https://youtu.be/PIjno6paszY)/[슬라이드](https://hunkim.github.io/ml/lec5.pdf)	[00:15:00] (송인재, 박진현)
@@ -59,7 +59,7 @@
     - lab 07-2: Meet MNIST Dataset [비디오](https://youtu.be/ktd5yrki_KA)/[슬라이드](https://docs.google.com/presentation/d/1cVwqMpERToATs1JGYps0F3MLARP8OAlw6ZIe-lpPHYs) [00:13:00] (송인재, 박진현) 
 
 
-## (3주차) A반: 11월 26일 / B반: 11월 29일
+## (3주차) A반: 12월 3일 / B반: 12월 6일
 
 
 - 섹션 8. 딥러닝의 기본 개념과, 문제, 그리고 해결 
