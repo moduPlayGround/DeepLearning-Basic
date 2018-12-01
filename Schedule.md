@@ -58,7 +58,6 @@
     - lab 07-1: training/test dataset, learning rate, normalization [비디오](https://youtu.be/oSJfejG2C3w)/[슬라이드](https://docs.google.com/presentation/d/1cVwqMpERToATs1JGYps0F3MLARP8OAlw6ZIe-lpPHYs)		[00:11:00] (곽민재, 김지원)
     - lab 07-2: Meet MNIST Dataset [비디오](https://youtu.be/ktd5yrki_KA)/[슬라이드](https://docs.google.com/presentation/d/1cVwqMpERToATs1JGYps0F3MLARP8OAlw6ZIe-lpPHYs) [00:13:00] (송인재, 박진현) 
 
-안형조, 조원, 한대찬*, 박미희, 권석준, 김해린*, 노현중, 곽민재 
 
 ## (3주차) A반: 11월 26일 / B반: 11월 29일
 
