@@ -70,9 +70,9 @@
 
 - 섹션 9. Neural Network 1: XOR 문제와 학습방법, Backpropagation
     - XOR 문제 딥러닝으로 풀기 [비디오](https://youtu.be/GYecDQQwTdI)/[슬라이드](https://hunkim.github.io/ml/lec9.pdf)[00:15:00] (박미희, 김지원)
-    - 특별편: 10분안에 미분 정리하기 [비디오](https://youtu.be/oZyvmtqLmLo)/[슬라이드](https://hunkim.github.io/ml/lec9.pdf)[00:09:00] (권석준, 이정민)
+    - 특별편: 10분안에 미분 정리하기 [비디오](https://youtu.be/oZyvmtqLmLo)/[슬라이드](https://hunkim.github.io/ml/lec9.pdf)[00:09:00] (?, 이정민)
     - 딥넷트웍 학습 시키기 (backpropagation)	[비디오](https://youtu.be/573EZkzfnZ0)/[슬라이드](https://hunkim.github.io/ml/lec9.pdf)[00:18:00] (김해린, 김민준)
-    - Lab 9-1: XOR을 위한 텐스플로우 딥넷트웍 [비디오](https://youtu.be/oFGHOsAYiz0)/[슬라이드](https://docs.google.com/presentation/d/1KHpjyziDm0Wle-OI-6TZhWM2Oj7YiypXuZOZ1SJW8ds/edit?usp=drive_web)	[00:12:00] (노현중, 조동현)
+    - Lab 9-1: XOR을 위한 텐스플로우 딥넷트웍 [비디오](https://youtu.be/oFGHOsAYiz0)/[슬라이드](https://docs.google.com/presentation/d/1KHpjyziDm0Wle-OI-6TZhWM2Oj7YiypXuZOZ1SJW8ds/edit?usp=drive_web)	[00:12:00] (?, 조동현)
     - Lab 9-2: Tensor Board로 딥네트웍 들여다보기 [비디오](https://youtu.be/lmrWZPFYjHM)/[슬라이드](https://docs.google.com/presentation/d/1KHpjyziDm0Wle-OI-6TZhWM2Oj7YiypXuZOZ1SJW8ds/edit?usp=drive_web)		[00:12:00] (곽민재, 변성진)
 
 
